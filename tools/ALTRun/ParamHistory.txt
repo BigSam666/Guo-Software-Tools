@@ -1,0 +1,1 @@
+0         |winsat disk -drive c          
