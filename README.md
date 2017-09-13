@@ -32,7 +32,7 @@ SecureCRT是一款支持SSH（SSH1和SSH2）的终端仿真程序，简单地说
 由Sysinternals开发的Windows系统和应用程序监视工具，目前已并入微软旗下。不仅结合了Filemon（文件监视器）和Regmon（注册表监视器）两个工具的功能，还增加了多项重要的增强功能。
 
 ## 11、[atom](https://atom.io/)
-强大没朋友，各种插件，并且开源。
+强大没朋友，各种插件，并且开源。推介插件：Git Plus、atom-ide-ui、、、
 
 ## 13、[sublime text 3](https://www.sublimetext.com/3)
 世界上最好的编辑器器之一，堪称神器。
