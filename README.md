@@ -32,10 +32,21 @@ SecureCRT是一款支持SSH（SSH1和SSH2）的终端仿真程序，简单地说
 由Sysinternals开发的Windows系统和应用程序监视工具，目前已并入微软旗下。不仅结合了Filemon（文件监视器）和Regmon（注册表监视器）两个工具的功能，还增加了多项重要的增强功能。
 
 ## 11、[atom](https://atom.io/)
-强大没朋友，各种插件，并且开源。推介插件：Git Plus、atom-ide-ui、、、
+强大到没朋友，各种插件，并且开源。因为Atom比较吃内存，介意卸载没必要的插件。响应速度才能提上来，电脑软件装多了也会卡，各司其职。推介插件：Git Plus、atom-ide-ui、markdown-preview-plus、simplified-chinese-menu、atomic-chrome。
 
 ## 13、[sublime text 3](https://www.sublimetext.com/3)
-世界上最好的编辑器器之一，堪称神器。
+世界上最好的编辑器器之一，堪称神器。和上面结合起来，堪称完美。
+
+## 14、[Search Everything](http://www.oldapps.com/zh-cn/everything_search.php?old_everything_search=14940)
+注意：不要使用新版本，旧版本只要你输入，就会有结果。比win自带的强大一万倍。还有一点不要强迫症的乱更新软件，新版本未必都是好的。顺手就好。
+
+## 15、网易云音乐
+这个取决于个人喜好，没装的，尝试用几天。我相信你觉得会卸载其他的。说起卸载，我希望大家卸载一些国产的垃圾软件、用国外的代替。你会发现广告少多了，速度起来了。同样的软件，在play商店下载，功能比国内多而且没广告 。
+
+## 16、迅雷极速版
+速度没有限制，更具版本而定，连接不给力。结合Tampermonkey插件，爽歪歪、、、
+
+
 
 # Chrome插件篇(太多好用的了)
 
@@ -60,5 +71,19 @@ SecureCRT是一款支持SSH（SSH1和SSH2）的终端仿真程序，简单地说
 ## 37、[JsonViewer](https://chrome.google.com/webstore/search/jsonviewer?utm_source=chrome-ntp-icon)
  JSONView是一款非常棒的查看JSON格式数据的Chrome扩展。
 
+## 38、Grammarly for Chrome
+英语写作的这个插件很有用，自动判断语法，点击修改。
+
+## 39、Adblock for Youtube™ 、AdShield
+上面两个都不错，结合起来效果完美。
+
+## 40、ColorZilla
+前端的朋友必备，设计师、后端的也需要。找到具体颜色数值并且测量它们的不同。
+
+## 41、Death Clock
+死亡倒计时，强迫自己珍惜每一分，每一秒。
+
+## 42、新的隐身窗口
+隐私很重要，我们的搜索记录会被记录下来。可以使用隐身窗口。
 
 # PS:先分享到这里，后续慢慢补充。
