@@ -5,7 +5,7 @@ PS：也可以分享自己常用的软件给大家
 ALTRun是由网友 ET民工个人独立开发的一款快速启动软件，小巧绿色，简单易用。精致简洁的操作界面、精巧灵动的智能匹配、疾如雷电的响应速度和行云流水般畅快淋漓的操控体验的完美结合，足以令人爱不释手。<br>
 
 ## 2、LD([科学++网](https://github.com/getlantern/forum))
-速度绝对刚刚的，YouTube1080P妥妥的，2K微卡。支持Android、IOS、Ubuntu、macOS。其他Linux系统可以使用Chome浏览器插件：SpeedplusV+N。
+速度绝对刚刚的，YouTube1080P妥妥的，2K微卡。支持Android、IOS、Ubuntu、macOS。其他Linux系统可以使用Chome浏览器插件：SpeedplusV+N。Centos安装请参考这篇文件：https://github.com/guoxiaoxu/install-lantern
 
 ## 3、[networx](https://networx.en.softonic.com/)(流量监控)
 屏蔽某雷自动上传文件，屏蔽某些自动联网的软件。PS：最好卸载各种国产杀毒软件，使用Avast，强大到可以杀掉浏览器脚本。卸载方式：先删除安装目录，在启动avastclear.exe。最好在安全模式下进行。
